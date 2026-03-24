@@ -2,7 +2,7 @@
 
 <img src="logo.png" alt="banja.au" height="40">
 
-Build your dream app with Australia's best talent
+# Build your dream app with Australia's best talent
 
 </div>
 
